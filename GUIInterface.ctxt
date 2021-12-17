@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GUIInterface
+comment0.text=\r\n\ The\ Driver\ class\ presents\ a\ simple\ GUI\ that\ can\ be\ used\ to\ search\ courses.\ The\r\n\ GUI\ allows\ the\ user\ to\ specify\ a\ department\ to\ use\ as\ a\ search\ criterion.\r\n\ \r\n\ @author\ Computer\ Science\ Department\ \r\n\ @version\ November,\ 2007\r\n\ @Code\ Modified\:\ Truc\ Nguyen\ (HerSam)\r\n\ @Version\:\ 25th\ November\ 2021\r\n
+comment1.params=
+comment1.target=GUIInterface()
+comment1.text=\r\n\ The\ constructor\ for\ the\ Driver\ class\ creates\ the\ GUI\ and\ calls\r\n\ a\ method\ to\ fill\ the\ report\ combo\ box\ with\ initial\ values.\ It\r\n\ then\ displays\ this\ comboBox\ on\ the\ pane.\r\n
+comment2.params=
+comment2.target=void\ fillReportCombo()
+comment2.text=\r\n\ This\ method\ fills\ the\ reportCombo\ box\ with\ initial\ values.\r\n
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ This\ method\ is\ called\ when\ the\ user\ clicks\ on\ a\ button\ in\ the\ Interface.\r\n\ The\ method\ checks\ to\ see\ if\ the\ user\ clicked\ on\ the\ SUBMIT\ button.\ \ If\ so,\r\n\ it\ prints\ the\ selected\ report.\r\n\r\n
+numComments=4
